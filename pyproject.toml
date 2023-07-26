@@ -3,7 +3,7 @@ name = "visclo"
 version = "0.1.0"
 description = ""
 authors = ["uigctaw <uigctaw@metadata.social>"]
-readme = "README.rtf"
+readme = "README.rst"
 
 [tool.poetry.dependencies]
 python = "^3.11"
